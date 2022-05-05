@@ -3,7 +3,7 @@
 Projeto criado para a semana nlw-return da Rocketseat na trilha Impulse
 
 <p align="center">
-    <img alt="Capa Widget" src="./src/assets/Capa.png"/>
+    <img alt="Capa Widget" src="./web/src/assets/Capa.png"/>
 </p>
 
 # 🔧 Tecnologias utilizadas:
