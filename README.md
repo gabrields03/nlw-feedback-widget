@@ -10,12 +10,15 @@ Projeto criado para a semana nlw-return da Rocketseat na trilha Impulse
 
 - ReactJs
 - NodeJS
+- Express
+- Prisma
 - Typescript
 - TailwindCSS
 - Headless UI
 - Vite
 - Insomnia
 - Jest
+- NodeMailer
 - React native
 - Expo
 
