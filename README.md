@@ -29,6 +29,9 @@ Projeto criado para a semana nlw-return da Rocketseat na trilha Impulse
 
 ## 🚀 Como rodar o projeto
 
+- Requirimento: tenha o postgresql configurado ou troque as dependências do db para sqlite 
+
+
 Clone o repositório e acesse a pasta web
 
 ```bash
@@ -43,13 +46,15 @@ npm install
 npm run dev
 ```
 
+Abra um novo terminal <br>
 Entre na pasta server e instale suas depedências
 
 ```bash
-cd ..
-cd server
+cd nlw-feedback-widget/server
 npm install
 ```
+
+Crie e configure seu arquivo .env conforme o [Prisma](https://www.prisma.io/docs/concepts/database-connectors/sqlite) recomenda 
 
 Rode as migrações do banco de dados
 
@@ -64,7 +69,7 @@ Rode o back-end do projeto
 npm run dev
 ```
 
-Rode o projeto em produção
+Para rodar o projeto em produção
 
 ```bash
 npm run start
