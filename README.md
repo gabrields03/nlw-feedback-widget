@@ -33,7 +33,7 @@ Clone o repositório e acesse a pasta web
 
 ```bash
 git clone https://github.com/gabrields03/nlw-feedback-widget
-cd nlw-return-impulse/web
+cd nlw-feedback-widget/web
 ```
 
 Rode esses comandos para instalar as dependências e iniciar o projeto front-end
