@@ -29,7 +29,7 @@ Projeto criado para a semana nlw-return da Rocketseat na trilha Impulse
 
 ## 🚀 Como rodar o projeto
 
-- Requirimento: tenha o postgresql configurado ou troque as dependências do db para sqlite 
+- Requerimento: tenha o postgresql configurado ou troque as dependências do db para sqlite 
 
 
 Clone o repositório e acesse a pasta web
